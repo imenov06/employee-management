@@ -53,7 +53,7 @@ python3 app.py <режим> [аргументы] # для Linux
 
 2. **Добавление сотрудника**
    ```bash
-   python app.py 2 "Иванов Иван Иванович" 1990-01-15 Male
+   python app.py 2 "Ivanov Ivan Ivanovich" 1990-01-15 Male
    ```
 
 3. **Вывод всех сотрудников**
